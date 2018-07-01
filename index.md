@@ -4,7 +4,7 @@ Undergraduate Student in [UNIST](https://unist.ac.kr)
 Majoring Computer Science Engineering
 Minoring Human Factors Engineering
 
-Currently: Looking for a job for alternative military service in South Korea (taking a temporary leave of absence)
+Currently: Looking for a job for alternative military service in South Korea (taking a temporary leave of absence from school)
 
 # Links
 
