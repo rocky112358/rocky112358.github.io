@@ -81,9 +81,14 @@ _NAVER D2 CAMPUS PARTNER: SECURITY SEMINAR, Sep 9, 2017_
 
 ### [Return Oriented Programming](https://www.slideshare.net/ssuser2ced101/return-oriented-programming-103852554)
 
-_HeXA Hacking Seminar, Apr 30, 2016_
+_[HeXA Hacking Seminar](https://www.facebook.com/unist.hexa/photos/a.350957168329280.83849.350919224999741/1001948783230112/), Apr 30, 2016_
 
 <center><iframe src="//www.slideshare.net/slideshow/embed_code/key/meO03hjSexJY89" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></center>
+
+### Everything about game cheats
+
+_[HeXA Public Seminar](https://www.facebook.com/unist.hexa/photos/a.350957168329280.83849.350919224999741/909828369108821/?type=1&theater), Nov 24, 2015_
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117152887-3"></script>
