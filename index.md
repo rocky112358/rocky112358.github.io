@@ -60,7 +60,7 @@ Organized CTF(Capture The Flag) and constructed CTF servers for managing scores 
 
 Also, created problems of Reverse engineering, Digital forensic, Web, Pwnable and Crypto
 
-<center><img src="images/ctf.png" width=50%></center>
+<center>![CTF screenshot](/images/ctf.png)</center>
 
 # Presentations
 
