@@ -44,7 +44,7 @@ Instructed Android application development via MIT App Inventor 2 for a month
 
 <center><iframe src="//www.slideshare.net/slideshow/embed_code/key/JklHyAKTBwJfQo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></center>
 
-<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/LTPJZsmIRBscPG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></ceneter>
+<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/LTPJZsmIRBscPG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></center>
 
 # Presentations
 
