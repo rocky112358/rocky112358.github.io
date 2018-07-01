@@ -32,15 +32,15 @@ Awarded by the Minister of National Defense (국방부장관상). Received an aw
 
 # Work Experience
 
-### Intern, Interactive Visual Analysis and Data Exploration Research Lab @ UNIST (Dec 2017~Feb 2018)
+### Intern, [Interactive Visual Analysis and Data Exploration Research Lab](http://ivaderlab.unist.ac.kr/)
+### @ UNIST (Dec 2017 ~ Feb 2018)
 
 Implemented web interface for an interactive visual analysis system for exploring, monitoring, and forecasting road traffic congestion
 
-### Volunteer, World Friends ICT Volunteers Program, Accra, Ghana (July 2017)
+### Volunteer, [World Friends ICT Volunteers Program](https://kiv.nia.or.kr/front/main/main.do)
+### @ (Regent University College of Science and Technology)[http://regent.edu.gh/], Accra, Ghana (Jul 2017)
 
-at Regent University College of Science and Technology, Accra, Ghana
-
-Instructed Android application development via MIT App Inventor 2 for a month
+Instructed Android application development with MIT App Inventor 2 for a month
 
 <center><iframe src="//www.slideshare.net/slideshow/embed_code/key/JklHyAKTBwJfQo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></center>
 
@@ -54,6 +54,14 @@ _NAVER D2 CAMPUS PARTNER: SECURITY SEMINAR, Sep 9, 2017_
 
 <center><iframe src="//www.slideshare.net/slideshow/embed_code/key/H2qEHdIY1wdFJ6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></center>
 
+# Campus Activities
+
+### President, [HeXA](http://hexa.pro) (a computer science research club) @ UNIST (Mar 2016 ~ Feb 2018)
+
+Managed study groups and shared study materials for the Hacking Department and organized seminars
+
+Shared the results of various club activities with [NAVER D2](https://d2.naver.com/home) Camputer Partners
+
 # Personal Projects
 
-### Drone 
+
