@@ -37,6 +37,8 @@ Awarded by the Minister of National Defense (국방부장관상). Received an aw
 
 Implemented web interface for an interactive visual analysis system for exploring, monitoring, and forecasting road traffic congestion
 
+![traffic AI](/images/trafficAI.png)
+
 ### Volunteer, [World Friends ICT Volunteers Program](https://kiv.nia.or.kr/front/main/main.do) @ [Regent University College of Science and Technology](http://regent.edu.gh/), Accra, Ghana (Jul 2017)
 
 Instructed Android application development with MIT App Inventor 2 for a month
