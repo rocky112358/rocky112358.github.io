@@ -44,6 +44,24 @@ Instructed Android application development with MIT App Inventor 2 for a month
 
 <center><iframe src="//www.slideshare.net/slideshow/embed_code/key/LTPJZsmIRBscPG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></center>
 
+# Campus Activities
+
+### President, [HeXA](http://hexa.pro) (a computer science research club) @ UNIST (Mar 2016 ~ Feb 2018)
+
+Managed study groups and shared study materials for the Hacking Department and organized seminars
+
+Shared the results of various club activities with [NAVER D2](https://d2.naver.com/home) Camputer Partners
+
+# Personal Projects
+
+### HeXA CTF [2016](https://www.facebook.com/unist.hexa/photos/a.350957168329280.83849.350919224999741/1138393716252284/?type=1&theater), [2017](https://www.facebook.com/unist.hexa/photos/a.350957168329280.83849.350919224999741/1520507618040890/?type=1&theater)
+
+Organized CTF(Capture The Flag) and constructed CTF servers for managing scores and serving problems. 
+
+Also, created problems of Reverse engineering, Digital forensic, Web, Pwnable and Crypto
+
+<center><img src="images/ctf.png" width=50%></center>
+
 # Presentations
 
 ### [Resource Security of Mobile Games](https://www.slideshare.net/ssuser2ced101/partner-day-85254729) 
@@ -57,15 +75,3 @@ _NAVER D2 CAMPUS PARTNER: SECURITY SEMINAR, Sep 9, 2017_
 _HeXA Hacking Seminar, Apr 30, 2016_
 
 <center><iframe src="//www.slideshare.net/slideshow/embed_code/key/meO03hjSexJY89" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></center>
-
-# Campus Activities
-
-### President, [HeXA](http://hexa.pro) (a computer science research club) @ UNIST (Mar 2016 ~ Feb 2018)
-
-Managed study groups and shared study materials for the Hacking Department and organized seminars
-
-Shared the results of various club activities with [NAVER D2](https://d2.naver.com/home) Camputer Partners
-
-# Personal Projects
-
-
