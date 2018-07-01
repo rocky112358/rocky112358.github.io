@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Profile
 
-You can use the [editor on GitHub](https://github.com/rocky112358/rocky112358.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Undergraduate Student in [UNIST](https://unist.ac.kr)
+Majoring Computer Science Engineering
+Minoring Human Factors Engineering
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently: Looking for a job for alternative military service in South Korea (taking a temporary leave of absence)
 
-### Markdown
+# Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email: rocky112358 (at) gmail (dot) com
+GitHub: [github.com/rocky112358](https://github.com/rocky112358)
+LinkedIn: [linkedin.com/in/dongmin-kim-635921156/](https://linkedin.com/in/dongmin-kim-635921156/)
+SlideShare: [slideshare.net/ssuser2ced101](https://www.slideshare.net/ssuser2ced101)
 
-```markdown
-Syntax highlighted code block
+# Interests
 
-# Header 1
-## Header 2
-### Header 3
+Current: HCI (Hardware UI, Tangible UI, VR, AR), Backend Programming, Embedded Programming
+Old: Computer Security
 
-- Bulleted
-- List
+# Awards
 
-1. Numbered
-2. List
+## [2017 Cryptography Contest](https://www.facebook.com/allthatcrypto) :: 1st place ([HeXA](http://hexa.pro))
 
-**Bold** and _Italic_ and `Code` text
+Hosted by Korea University
+Awarded by the Minister of National Defense (국방부장관상). Received an award of $5,000
 
-[Link](url) and ![Image](src)
-```
+# Presentations
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## [Resource Secutiry of Mobile Games](https://www.slideshare.net/ssuser2ced101/partner-day-85254729) (NAVER D2 CAMPUS PARTNER: SECURITY SEMINAR, Sep 9, 2017)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rocky112358/rocky112358.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/H2qEHdIY1wdFJ6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssuser2ced101/partner-day-85254729" title="[보안 PARTNER DAY] 모바일게임 리소스 보안" target="_blank">[보안 PARTNER DAY] 모바일게임 리소스 보안</a> </strong> from <strong><a href="https://www.slideshare.net/ssuser2ced101" target="_blank">동민 김</a></strong> </div>
