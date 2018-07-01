@@ -20,7 +20,7 @@ SlideShare: [slideshare.net/ssuser2ced101](https://www.slideshare.net/ssuser2ced
 
 Current: HCI (Hardware UI, Tangible UI, VR, AR), Backend Programming, Embedded Programming
 
-Old: Computer Security
+Old: Computer Security, Andorid Application Development
 
 # Awards
 
@@ -53,6 +53,12 @@ Instructed Android application development with MIT App Inventor 2 for a month
 _NAVER D2 CAMPUS PARTNER: SECURITY SEMINAR, Sep 9, 2017_
 
 <center><iframe src="//www.slideshare.net/slideshow/embed_code/key/H2qEHdIY1wdFJ6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></center>
+
+### Return Oriented Programming
+
+_HeXA Hacking Seminar, Apr 30, 2016_
+
+<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/meO03hjSexJY89" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></center>
 
 # Campus Activities
 
