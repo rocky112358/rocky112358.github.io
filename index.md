@@ -32,13 +32,11 @@ Awarded by the Minister of National Defense (국방부장관상). Received an aw
 
 # Work Experience
 
-### Intern, [Interactive Visual Analysis and Data Exploration Research Lab](http://ivaderlab.unist.ac.kr/)
-### @ UNIST (Dec 2017 ~ Feb 2018)
+### Intern, [Interactive Visual Analysis and Data Exploration Research Lab](http://ivaderlab.unist.ac.kr/) @ UNIST (Dec 2017 ~ Feb 2018)
 
 Implemented web interface for an interactive visual analysis system for exploring, monitoring, and forecasting road traffic congestion
 
-### Volunteer, [World Friends ICT Volunteers Program](https://kiv.nia.or.kr/front/main/main.do)
-### @ (Regent University College of Science and Technology)[http://regent.edu.gh/], Accra, Ghana (Jul 2017)
+### Volunteer, [World Friends ICT Volunteers Program](https://kiv.nia.or.kr/front/main/main.do) @ (Regent University College of Science and Technology)[http://regent.edu.gh/], Accra, Ghana (Jul 2017)
 
 Instructed Android application development with MIT App Inventor 2 for a month
 
