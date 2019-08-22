@@ -5,7 +5,7 @@ Undergraduate Student in [UNIST](https://unist.ac.kr)
 Majoring Computer Science Engineering
 Minoring Human Factors Engineering
 
-Currently: Looking for a job for alternative military service in South Korea (taking a temporary leave of absence from school)
+Currently: Working as skilled industrial personnel(산업기능요원, instead of the military service) in South Korea, in [Buzzni](https://buzzni.com) (taking a temporary leave of absence from school). The duty ends on Aug 15th, 2020
 
 # Links
 
@@ -19,9 +19,9 @@ SlideShare: [slideshare.net/ssuser2ced101](https://www.slideshare.net/ssuser2ced
 
 # Interests
 
-Current: HCI (Hardware UI, Tangible UI, VR, AR), Backend Programming, Embedded Programming
+Current: Data Engineering, Computer Security, HCI (VR, AR), Embedded Programming
 
-Old: Computer Security, Andorid Application Development
+Old: Android Application Development
 
 # Awards
 
