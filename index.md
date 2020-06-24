@@ -5,7 +5,7 @@ Undergraduate Student in [UNIST](https://unist.ac.kr)
 Majoring Computer Science Engineering
 Minoring Human Factors Engineering
 
-Currently: Working as skilled industrial personnel(산업기능요원, instead of the military service) in South Korea, in [Buzzni](https://buzzni.com) (taking a temporary leave of absence from school). The duty ends on Aug 15th, 2020
+Currently: Working as skilled industrial personnel(산업기능요원, instead of the military service) in South Korea, in [Coinone](https://www.coinonecorp.com/) (taking a temporary leave of absence from school). The duty ends on Aug 15th, 2020
 
 # Links
 
